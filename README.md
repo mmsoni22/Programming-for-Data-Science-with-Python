@@ -6,5 +6,8 @@ This repository contains three projects, in which I learn about SQL (PostgreSQL)
 * Git version control => Upload the files using command line, working with remote repository
 
 ## Project 1
+
+## Overview
+
 This project is about the exploration of database, understand the diffent tables and their relationship with each others, and write queries from given questions and then create visualizations to better understand the student's queries. Find the dataase here: (POSTGRESQL documentation sample database): https://www.postgresqltutorial.com/postgresql-sample-database/
 * Find the questions in between comments at top of each queries. Project1/SQL.txt
