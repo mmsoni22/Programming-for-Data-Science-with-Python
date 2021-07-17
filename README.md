@@ -10,4 +10,4 @@ This repository contains three projects, in which I learn about SQL (PostgreSQL)
 ## Overview
 
 This project is about the exploration of database, understand the diffent tables and their relationship with each others, and write queries from given questions and then create visualizations to better understand the student's queries. Find the dataase here: (POSTGRESQL documentation sample database): https://www.postgresqltutorial.com/postgresql-sample-database/
-* Find the questions in between comments at top of each queries. Project1/SQL.txt
+* A set of questions have also been provided by Udacity so that we were free to consider and include them in our Project Submission. Find it in between the comments: Project1/SQL.txt
