@@ -36,3 +36,17 @@ The required files for running this program are:
 ## project submission
 
 [Check my project submission](https://github.com/mmsoni22/Programming-for-Data-Science-with-Python/tree/main/Project%202)
+
+## visualization of terminal
+User Inputs are end of the every questions
+### 1. Asking user to speciy city
+![Capture-1](https://user-images.githubusercontent.com/50927689/126179986-669becaf-6ced-4465-a76c-b646a132a50c.JPG)
+### 2. Asking users to specify month, day or both
+![Capture-2](https://user-images.githubusercontent.com/50927689/126180230-6956790b-5195-44c1-a169-6ae0c8fc8a96.JPG)
+### 3. Asking users to month and day
+![Capture-3](https://user-images.githubusercontent.com/50927689/126180387-28a192ac-9a7d-47e7-b5a8-3248344ad10e.JPG)
+### 4. Detailed raw data
+![Capture-4](https://user-images.githubusercontent.com/50927689/126180592-3308a141-31e5-4eb8-9e2d-1ed3d2e82343.JPG)
+
+
+
