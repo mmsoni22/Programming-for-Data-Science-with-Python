@@ -5,7 +5,7 @@ This repository contains three projects, in which I learn about SQL (PostgreSQL)
 * Python => Data Structure, Variables, loops and functions , libraries (Numpy, pandas)
 * Git version control => Upload the files using command line, working with remote repository
 
-## Project 1
+## Project 1 INVESTIGATE A DATABASE
 
 ## Overview
 
@@ -16,7 +16,7 @@ This project is about the exploration of database, understand the diffent tables
 [Check my project submission](https://github.com/mmsoni22/Programming-for-Data-Science-with-Python/tree/main/DataScience/Project1)
 
 
-## Project 2
+## Project 2 EXPLORE US BIKESHARE DATA
 
 ## Overview
 In this project, the student had to make use of Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. The student had to write code to (a) import the data and answer interesting questions about it by computing descriptive statistics, and (b) write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
